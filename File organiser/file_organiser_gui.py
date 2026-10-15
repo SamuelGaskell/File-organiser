@@ -1,5 +1,5 @@
 """
-File Organiser (GUI version)
+File Organiser (GUI version 2.0)
 A simple window to sort the files in a folder into subfolders by type.
 
 How to use:
