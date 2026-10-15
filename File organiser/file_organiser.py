@@ -1,5 +1,5 @@
 """
-File Organiser
+File Organiser (Version 1)
 Sorts the files in a folder into subfolders by file type.
 Change DRY_RUN to False to actually move the files.
 """
