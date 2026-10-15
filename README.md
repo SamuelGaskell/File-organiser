@@ -1,4 +1,4 @@
-# File Organiser
+# File Organiser (Updated Version is file_organiser_gui)
 
 A Python script that sorts the files in a folder into subfolders by file type (Images, Documents, Videos, Audio, Archives, Programs, Blender, Code and Other).
 
