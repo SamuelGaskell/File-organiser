@@ -29,3 +29,4 @@ The script starts with `DRY_RUN = True`, which only prints what it would move an
 - Sort files by date as well as type
 - Let the user type in which folder to organise
 - Add an undo option
+- Add a simple window (GUI) so the script can be used without the terminal
