@@ -9,8 +9,8 @@ The script looks at each file's ending (for example .jpg or .pdf), checks it aga
 ## How to run it
 
 1. Install Python 3.
-2. Download file_organiser.py.
-3. Run it from a terminal: `py file_organiser.py`
+2. Download file_organiser_gui.py.
+3. Run it from a terminal: `py file_organiser_gui.py`
 
 By default it organises your Downloads folder. To use a different folder, change the `FOLDER` line at the top of the script.
 
