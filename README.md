@@ -10,13 +10,9 @@ The script looks at each file's ending (for example .jpg or .pdf), checks it aga
 
 1. Install Python 3.
 2. Download file_organiser_gui.py.
-3. Run it from a terminal: `py file_organiser_gui.py`
+3. Double click it to open `py file_organiser_gui.py`
 
 By default it organises your Downloads folder. To use a different folder, change the `FOLDER` line at the top of the script.
-
-## Preview mode
-
-The script starts with `DRY_RUN = True`, which only prints what it would move and doesn't change any files. Once the preview looks right, set `DRY_RUN = False` to move the files for real. It never overwrites a file that already exists.
 
 ## What I learned
 
